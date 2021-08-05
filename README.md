@@ -2,7 +2,7 @@
 
 Created by Celia Bolzer & Clea Denamiel
 
-For information contact: Clea Denamiel at cdenamie@izor.hr
+For information contact: Clea Denamiel at cdenami@irb.hr
 
 The user friendly interface is used to run the meteotsunami surrogate model, display the results and save the output in surrogate_results.mat.
 
